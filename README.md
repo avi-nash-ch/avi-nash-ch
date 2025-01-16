@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi-nash-ch&label=Profile%20views&color=0e75b6&style=flat" alt="avi-nash-ch" /> </p>
 
-- 🔭 I’m currently working on [Winner](https://github.com/avi-nash-ch/winner)
+- 🌱 I’m currently learning **Advance PHP, Advance Laravel**
 
-- 🌱 I’m currently learning **Advance PHP, Advance JS**
-
-- 💬 Ask me about **Codeigniter,PHP,etc**
+- 💬 Ask me about **PHP, Codeigniter, Laravel, etc**
 
 - 📫 How to reach me **chaurasiyaavinash97@gmail.com**
 
-- ⚡ Fun fact **I am funny and Good Shyar**
+- ⚡ Fun fact **I am funny and Good Cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
